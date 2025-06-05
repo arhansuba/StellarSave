@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "config",
+			"path": "."
+		},
+		{
+			"name": "StellarSave",
+			"path": "../../StellarSave"
+		},
+		{
+			"name": "public",
+			"path": "../public"
+		}
+	],
+	"settings": {}
+}
